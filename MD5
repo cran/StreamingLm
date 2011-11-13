@@ -1,0 +1,8 @@
+c94555cc78fc9a2b7fd1f1f2a8a7e3f8 *DESCRIPTION
+85e5433b4f03bdd81aa3c902d689cdc0 *NAMESPACE
+ad8451cdf09c0a29bc36dffa7efedd3e *R/StreamingLm.R
+006b63e7457b7835f66faf88ca40698c *README
+cc91a91210453b84c135c5142b6bebfe *bin/build.sh
+6bf5c5e7b94d59bc27c1ec5779e6a986 *bin/example.sh
+b073cb2b01384f6e2608a27ea1942b82 *bin/roxygenize.R
+b7b8ae966c5dfa4bab1179cc49257206 *man/StreamingLm.Rd
